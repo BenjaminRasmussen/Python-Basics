@@ -1,0 +1,163 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="1.8" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.8.0_25&quot;" />
+      <homePath value="C:/Program Files/Java/jdk1.8.0_25" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/charsets.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/deploy.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/ext/access-bridge-64.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/ext/cldrdata.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/ext/dnsns.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/ext/jaccess.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/ext/jfxrt.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/ext/localedata.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/ext/nashorn.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/ext/sunec.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/ext/sunjce_provider.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/ext/sunmscapi.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/ext/sunpkcs11.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/ext/zipfs.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/javaws.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/jce.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/jfr.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/jfxswt.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/jsse.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/management-agent.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/plugin.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/resources.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/rt.jar!/" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/src.zip!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/javafx-src.zip!/" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="1.8 (1)" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.8.0_25&quot;" />
+      <homePath value="C:/Program Files/Java/jdk1.8.0_25" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/charsets.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/deploy.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/ext/access-bridge-64.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/ext/cldrdata.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/ext/dnsns.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/ext/jaccess.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/ext/jfxrt.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/ext/localedata.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/ext/nashorn.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/ext/sunec.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/ext/sunjce_provider.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/ext/sunmscapi.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/ext/sunpkcs11.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/ext/zipfs.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/javaws.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/jce.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/jfr.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/jfxswt.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/jsse.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/management-agent.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/plugin.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/resources.jar!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/rt.jar!/" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/src.zip!/" />
+            <root type="simple" url="jar://C:/Program Files/Java/jdk1.8.0_25/javafx-src.zip!/" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.10 (/usr/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.10" />
+      <homePath value="/usr/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///Library/Python/2.7/site-packages" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/PyObjC" />
+            <root type="simple" url="jar:///Library/Python/2.7/site-packages/setuptools-32.3.0-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharmCE2016.3/python_stubs/348993582" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.2 (/Library/Frameworks/Python.framework/Versions/3.5/bin/python3.5)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="/Library/Frameworks/Python.framework/Versions/3.5/bin/python3.5" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/plat-darwin" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/lib-dynload" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharmCE2016.3/python_stubs/776880377" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.2 (~/anaconda/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="$USER_HOME$/anaconda/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/anaconda/lib/python3.5" />
+            <root type="simple" url="file://$USER_HOME$/anaconda/lib/python3.5/plat-darwin" />
+            <root type="simple" url="file://$USER_HOME$/anaconda/lib/python3.5/lib-dynload" />
+            <root type="simple" url="file://$USER_HOME$/anaconda/lib/python3.5/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/anaconda/lib/python3.5/site-packages/Sphinx-1.5.1-py3.5.egg" />
+            <root type="simple" url="file://$USER_HOME$/anaconda/lib/python3.5/site-packages/aeosa" />
+            <root type="simple" url="jar://$USER_HOME$/anaconda/lib/python3.5/site-packages/setuptools-27.2.0-py3.5.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharmCE2016.3/python_stubs/984746495" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
