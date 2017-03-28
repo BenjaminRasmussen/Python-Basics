@@ -96,7 +96,7 @@
         <entry key="colorcet" value="0.9.1" />
         <entry key="conda" value="4.3.14" />
         <entry key="conda-api" value="1.1.0" />
-        <entry key="conda-build" value="2.1.7" />
+        <entry key="conda-build" value="2.1.8" />
         <entry key="conda-build-all" value="1.0.2" />
         <entry key="conda-env" value="2.6.0" />
         <entry key="conda-manager" value="0.4.0" />
@@ -108,7 +108,7 @@
         <entry key="constantly" value="15.1.0" />
         <entry key="constructor" value="1.5.4" />
         <entry key="contextlib2" value="0.5.4" />
-        <entry key="continuum-docs" value="2.0.7" />
+        <entry key="continuum-docs" value="2.0.8" />
         <entry key="cookies" value="2.2.1" />
         <entry key="cornice" value="1.2.1" />
         <entry key="coverage" value="4.3.4" />
@@ -307,7 +307,7 @@
         <entry key="m4" value="1.4.17" />
         <entry key="mako" value="1.0.6" />
         <entry key="markdown" value="2.6.7" />
-        <entry key="markdown2" value="2.3.2" />
+        <entry key="markdown2" value="2.3.3" />
         <entry key="markupsafe" value="0.23" />
         <entry key="mathjax" value="2.2" />
         <entry key="matplotlib" value="2.0.0" />
@@ -390,7 +390,7 @@
         <entry key="pandocfilters" value="1.4.1" />
         <entry key="pango" value="1.40.3" />
         <entry key="param" value="1.5.0" />
-        <entry key="paramiko" value="2.0.2" />
+        <entry key="paramiko" value="2.1.2" />
         <entry key="parsel" value="1.1.0" />
         <entry key="partd" value="0.3.7" />
         <entry key="passlib" value="1.7.1" />
@@ -430,10 +430,10 @@
         <entry key="proj4" value="4.9.2" />
         <entry key="prompt_toolkit" value="1.0.13" />
         <entry key="protobuf" value="2.6.1" />
-        <entry key="psutil" value="5.2.0" />
+        <entry key="psutil" value="5.2.1" />
         <entry key="psycopg2" value="2.7.1" />
         <entry key="ptyprocess" value="0.5.1" />
-        <entry key="py" value="1.4.32" />
+        <entry key="py" value="1.4.33" />
         <entry key="pyamg" value="2.2.1" />
         <entry key="pyasn1" value="0.2.3" />
         <entry key="pyasn1-modules" value="0.0.8" />
@@ -898,7 +898,7 @@
         <entry key="webob" value="1.6.1" />
         <entry key="websocket" value="0.2.1" />
         <entry key="webtest" value="2.0.23" />
-        <entry key="werkzeug" value="0.12" />
+        <entry key="werkzeug" value="0.12.1" />
         <entry key="wget" value="2.2" />
         <entry key="wheel" value="0.29.0" />
         <entry key="whoosh" value="2.7.4" />
@@ -908,6 +908,7 @@
         <entry key="wrapt" value="1.10.8" />
         <entry key="wtforms" value="2.1" />
         <entry key="wxpython" value="3.0" />
+        <entry key="x507" value="1.4.6" />
         <entry key="xarray" value="0.9.1" />
         <entry key="xerces-c" value="3.1.4" />
         <entry key="xlrd" value="1.0.0" />
@@ -2240,6 +2241,7 @@
               <option value="2.1.5" />
               <option value="2.1.6" />
               <option value="2.1.7" />
+              <option value="2.1.8" />
             </list>
           </value>
         </entry>
@@ -2374,6 +2376,7 @@
               <option value="2.0.0" />
               <option value="2.0.2" />
               <option value="2.0.7" />
+              <option value="2.0.8" />
             </list>
           </value>
         </entry>
@@ -4403,6 +4406,7 @@
               <option value="2.3.2" />
               <option value="2.3.1" />
               <option value="2.3.0" />
+              <option value="2.3.3" />
             </list>
           </value>
         </entry>
@@ -5329,6 +5333,7 @@
               <option value="1.15.2" />
               <option value="1.14.0" />
               <option value="1.12.2" />
+              <option value="2.1.2" />
             </list>
           </value>
         </entry>
@@ -5744,6 +5749,7 @@
               <option value="5.1.2" />
               <option value="5.1.3" />
               <option value="5.2.0" />
+              <option value="5.2.1" />
             </list>
           </value>
         </entry>
@@ -5783,6 +5789,7 @@
               <option value="1.4.23" />
               <option value="1.4.26" />
               <option value="1.4.32" />
+              <option value="1.4.33" />
             </list>
           </value>
         </entry>
@@ -10149,6 +10156,7 @@
               <option value="0.11.13" />
               <option value="0.11.15" />
               <option value="0.12" />
+              <option value="0.12.1" />
             </list>
           </value>
         </entry>
@@ -10222,6 +10230,13 @@
           <value>
             <list>
               <option value="3.0" />
+            </list>
+          </value>
+        </entry>
+        <entry key="x507">
+          <value>
+            <list>
+              <option value="1.4.6" />
             </list>
           </value>
         </entry>
@@ -10460,6 +10475,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1490270865342" />
+    <option name="LAST_TIME_CHECKED" value="1490720237639" />
   </component>
 </application>
