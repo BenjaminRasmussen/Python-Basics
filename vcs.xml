@@ -12,7 +12,7 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/PycharmProjects" />
+    <option name="cloneParentDir" value="$USER_HOME$/PycharmProjects/MUN" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Desktop" />
