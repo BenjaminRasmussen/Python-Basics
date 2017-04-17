@@ -1,9 +1,10 @@
 <scheme name="_@user_Material Theme - Default" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2017-01-31T19:34:25</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2017-03-14T09:41:06</property>
+    <property name="modified">2017-04-17T22:20:01</property>
     <property name="originalScheme">Material Theme - Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -1284,6 +1285,11 @@
     <option name="PY.STRING">
       <value>
         <option name="FOREGROUND" value="c3e88d" />
+      </value>
+    </option>
+    <option name="PY.STRING.B">
+      <value>
+        <option name="FOREGROUND" value="2b8f2d" />
       </value>
     </option>
     <option name="PY.VALID_STRING_ESCAPE">
