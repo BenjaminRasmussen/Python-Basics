@@ -4,7 +4,7 @@
     <property name="created">2017-01-31T19:34:25</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2017-04-17T22:20:01</property>
+    <property name="modified">2017-04-19T21:46:29</property>
     <property name="originalScheme">Material Theme - Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -406,7 +406,7 @@
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="ffcb6b" />
+        <option name="FOREGROUND" value="c3d3de" />
       </value>
     </option>
     <option name="DEFAULT_CONSTANT">

@@ -1,5 +1,6 @@
 <application>
   <component name="IntentionManagerSettings">
     <ignoreAction name="Java/Boolean/DeMorgan Law" />
+    <ignoreAction name="Language Injection/Inject language or reference" />
   </component>
 </application>
