@@ -4,16 +4,17 @@
     <extensionMap>
       <mapping pattern="output" type="PLAIN_TEXT" />
       <mapping pattern="Output" type="PLAIN_TEXT" />
+      <mapping pattern="input3" type="PLAIN_TEXT" />
       <mapping pattern="Input" type="PLAIN_TEXT" />
       <mapping pattern="input" type="PLAIN_TEXT" />
       <mapping pattern="input4" type="PLAIN_TEXT" />
       <mapping pattern="Quickoutput" type="PLAIN_TEXT" />
       <mapping pattern="input6" type="PLAIN_TEXT" />
-      <mapping pattern="input3" type="PLAIN_TEXT" />
       <mapping ext="profile" type="PLAIN_TEXT" />
       <mapping ext="pstat" type="PLAIN_TEXT" />
       <mapping ext="whl" type="PLAIN_TEXT" />
       <mapping pattern="Main" type="Python" />
+      <mapping pattern="myfirstmodel" type="SQL" />
     </extensionMap>
   </component>
 </application>
