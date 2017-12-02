@@ -14,9 +14,13 @@
           <option name="url" value="git@github.com:BenjaminRasmussen/munny.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/BenjaminRasmussen/Livredder.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/PycharmProjects/MUNNY" />
+    <option name="cloneParentDir" value="$USER_HOME$/Livredder" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Desktop" />
