@@ -4,18 +4,12 @@
     <property name="created">2017-12-15T20:11:09</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2017.2.2.0.0</property>
-    <property name="modified">2017-12-22T18:26:35</property>
+    <property name="modified">2017-12-23T15:30:30</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
-  </font>
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_LINE_SPACING" value="1.6" />
   <colors>
