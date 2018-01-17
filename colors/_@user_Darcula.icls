@@ -3,7 +3,7 @@
     <property name="created">2017-12-15T20:11:09</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2017.2.2.0.0</property>
-    <property name="modified">2018-01-03T11:49:05</property>
+    <property name="modified">2018-01-17T17:10:48</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -12,6 +12,7 @@
     <option name="FILESTATUS_DELETED" value="808080" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="808080" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="ab7967" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="c3e88d" />
     <option name="FILESTATUS_MERGED" value="c792ea" />
     <option name="FILESTATUS_MODIFIED" value="80cbc4" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
