@@ -7,6 +7,7 @@
       <mapping pattern="input6" type="PLAIN_TEXT" />
       <mapping pattern="input4" type="PLAIN_TEXT" />
       <mapping pattern="input3" type="PLAIN_TEXT" />
+      <mapping pattern="data_01" type="PLAIN_TEXT" />
       <mapping pattern="Input" type="PLAIN_TEXT" />
       <mapping pattern="Output" type="PLAIN_TEXT" />
       <mapping pattern="output" type="PLAIN_TEXT" />
