@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="visualscript" type="PLAIN_TEXT" />
       <mapping pattern="heroku runs" type="PLAIN_TEXT" />
+      <mapping pattern="HW" type="PLAIN_TEXT" />
       <mapping pattern="input6" type="PLAIN_TEXT" />
       <mapping pattern="input4" type="PLAIN_TEXT" />
       <mapping pattern="input3" type="PLAIN_TEXT" />
