@@ -16,6 +16,7 @@
       <mapping pattern="output" type="PLAIN_TEXT" />
       <mapping pattern="input" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern="graph9" type="PLAIN_TEXT" />
       <mapping pattern="Quickoutput" type="PLAIN_TEXT" />
       <mapping pattern="input2" type="PLAIN_TEXT" />
       <mapping ext="profile" type="PLAIN_TEXT" />
