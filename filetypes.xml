@@ -21,6 +21,7 @@
       <mapping pattern="Quickoutput" type="PLAIN_TEXT" />
       <mapping pattern="input2" type="PLAIN_TEXT" />
       <mapping ext="profile" type="PLAIN_TEXT" />
+      <mapping ext="weights" type="PLAIN_TEXT" />
       <mapping ext="pstat" type="PLAIN_TEXT" />
       <mapping ext="whl" type="PLAIN_TEXT" />
       <mapping pattern="Main" type="Python" />
