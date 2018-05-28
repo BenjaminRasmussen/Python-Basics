@@ -13,6 +13,7 @@
       <mapping pattern="data_01" type="PLAIN_TEXT" />
       <mapping pattern="Input" type="PLAIN_TEXT" />
       <mapping pattern="Output" type="PLAIN_TEXT" />
+      <mapping pattern="pallete" type="PLAIN_TEXT" />
       <mapping pattern="output" type="PLAIN_TEXT" />
       <mapping pattern="input" type="PLAIN_TEXT" />
       <mapping pattern="carolinedata" type="PLAIN_TEXT" />
