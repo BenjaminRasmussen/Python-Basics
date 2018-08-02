@@ -24,6 +24,7 @@
       <mapping ext="profile" type="PLAIN_TEXT" />
       <mapping ext="weights" type="PLAIN_TEXT" />
       <mapping ext="pstat" type="PLAIN_TEXT" />
+      <mapping ext="len" type="PLAIN_TEXT" />
       <mapping ext="whl" type="PLAIN_TEXT" />
       <mapping pattern="Main" type="Python" />
       <mapping pattern="myfirstmodel" type="SQL" />
