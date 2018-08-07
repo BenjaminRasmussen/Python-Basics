@@ -17,9 +17,11 @@
       <mapping pattern="output" type="PLAIN_TEXT" />
       <mapping pattern="input" type="PLAIN_TEXT" />
       <mapping pattern="carolinedata" type="PLAIN_TEXT" />
+      <mapping pattern="ansøgning" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="graph9" type="PLAIN_TEXT" />
       <mapping pattern="Quickoutput" type="PLAIN_TEXT" />
+      <mapping pattern="ansøgning.json" type="PLAIN_TEXT" />
       <mapping pattern="input2" type="PLAIN_TEXT" />
       <mapping ext="profile" type="PLAIN_TEXT" />
       <mapping ext="weights" type="PLAIN_TEXT" />
