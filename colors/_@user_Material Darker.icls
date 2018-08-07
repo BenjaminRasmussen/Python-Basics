@@ -4,14 +4,14 @@
     <property name="created">2017-12-15T20:11:09</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2017.2.2.0.0</property>
-    <property name="modified">2018-05-24T15:53:59</property>
+    <property name="modified">2018-08-07T13:02:11</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_LINE_SPACING" value="1.6" />
+  <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
     <option name="ANNOTATIONS_COLOR" value="b0bec5" />
@@ -1400,6 +1400,23 @@
     <option name="MACRONAME">
       <value>
         <option name="FOREGROUND" value="908b25" />
+      </value>
+    </option>
+    <option name="MAKO.ATTRIBUTE_NAME">
+      <value>
+        <option name="FOREGROUND" value="ffcb6b" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="MAKO.ATTRIBUTE_VALUE">
+      <value>
+        <option name="FOREGROUND" value="c3e88d" />
+      </value>
+    </option>
+    <option name="MAKO.LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="4a4a4a" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="MARKDOWN.AUTO_LINK">
