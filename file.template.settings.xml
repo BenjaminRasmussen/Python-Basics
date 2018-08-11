@@ -1,5 +1,8 @@
 <application>
   <component name="ExportableFileTemplateSettings">
+    <default_templates>
+      <template name="Gherkin feature file.feature" reformat="true" live-template-enabled="false" enabled="false" />
+    </default_templates>
     <internal_templates>
       <template name="Python Script.py" reformat="false" live-template-enabled="false" enabled="true" />
     </internal_templates>
