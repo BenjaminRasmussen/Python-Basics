@@ -17,6 +17,7 @@
       <mapping pattern="output" type="PLAIN_TEXT" />
       <mapping pattern="input" type="PLAIN_TEXT" />
       <mapping pattern="carolinedata" type="PLAIN_TEXT" />
+      <mapping pattern="secret_key" type="PLAIN_TEXT" />
       <mapping pattern="ansøgning" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="graph9" type="PLAIN_TEXT" />
