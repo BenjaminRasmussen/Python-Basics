@@ -2,10 +2,35 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping pattern="Output" type="PLAIN_TEXT" />
+      <mapping pattern="visualscript" type="PLAIN_TEXT" />
+      <mapping pattern="heroku runs" type="PLAIN_TEXT" />
+      <mapping pattern="HW" type="PLAIN_TEXT" />
+      <mapping pattern="input6" type="PLAIN_TEXT" />
+      <mapping pattern="input4" type="PLAIN_TEXT" />
+      <mapping pattern="input3" type="PLAIN_TEXT" />
+      <mapping pattern="HELLO WORLD" type="PLAIN_TEXT" />
+      <mapping pattern="bookmark" type="PLAIN_TEXT" />
+      <mapping pattern="data_01" type="PLAIN_TEXT" />
       <mapping pattern="Input" type="PLAIN_TEXT" />
+      <mapping pattern="Output" type="PLAIN_TEXT" />
+      <mapping pattern="pallete" type="PLAIN_TEXT" />
+      <mapping pattern="output" type="PLAIN_TEXT" />
+      <mapping pattern="input" type="PLAIN_TEXT" />
+      <mapping pattern="carolinedata" type="PLAIN_TEXT" />
+      <mapping pattern="secret_key" type="PLAIN_TEXT" />
+      <mapping pattern="ansøgning" type="PLAIN_TEXT" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern="graph9" type="PLAIN_TEXT" />
+      <mapping pattern="Quickoutput" type="PLAIN_TEXT" />
+      <mapping pattern="ansøgning.json" type="PLAIN_TEXT" />
+      <mapping pattern="input2" type="PLAIN_TEXT" />
+      <mapping ext="profile" type="PLAIN_TEXT" />
+      <mapping ext="weights" type="PLAIN_TEXT" />
+      <mapping ext="pstat" type="PLAIN_TEXT" />
+      <mapping ext="len" type="PLAIN_TEXT" />
       <mapping ext="whl" type="PLAIN_TEXT" />
       <mapping pattern="Main" type="Python" />
+      <mapping pattern="myfirstmodel" type="SQL" />
     </extensionMap>
   </component>
 </application>

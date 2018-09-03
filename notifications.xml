@@ -1,0 +1,6 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="IDE and Plugin Updates" />
+    <notification groupId="Statistic" displayType="NONE" />
+  </component>
+</application>
